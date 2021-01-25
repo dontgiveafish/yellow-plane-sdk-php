@@ -1,0 +1,15 @@
+{
+  "name": "dontgiveafish/yellow-plane-sdk",
+  "description": "Yellow Plane SDK",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "guzzlehttp/guzzle": " ~6.0",
+    "php": " ^7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dontgiveafish\\YellowPlane\\": "src/"
+    }
+  }
+}
