@@ -2,6 +2,12 @@
 
 Yellow plane is a telegram bot that is designed to broadcast messages to the different teams.
 
+To install SDK with Composer run this command:
+
+```
+composer require dontgiveafish/yellow-plane-sdk
+```
+
 To broadcast a message use this simple interface:
 
 ```php
